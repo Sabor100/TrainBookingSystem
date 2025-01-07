@@ -1,0 +1,6 @@
+Ticket Number: 1, Passenger: Type: Second Class, Name:      Aaa, SSN: 9211156565,,,,,, Seat Number: 12, Baggage Allowances: 0, Meal Option: Yes, Train Number: -858993460, Destination: 
+Ticket Number: 2, Passenger: Type: First Class, Name:     Reshad, SSN: 0452524626,,,,, Seat Number: 12, Seat Type: : : : : Window, Breakfast: none, Train Number: 23, Destination: : : : : ,al
+Ticket Number: 3, Passenger: Type: First Class, Name:    w, SSN: 1212121212,,,, Seat Number: 12, Seat Type: : : : w, Breakfast: w, Train Number: 12, Destination: : : : w
+Ticket Number: 4, Passenger: Type: First Class, Name:   A, SSN: 7479732603,,, Seat Number: 23, Seat Type: : : fff, Breakfast: ew, Train Number: 22, Destination: : : m
+Ticket Number: 5, Passenger: Type: First Class, Name:  Sa, SSN: 0071263256,, Seat Number: 12, Seat Type: : window, Breakfast: egg, Train Number: 22, Destination: : ma
+Ticket Number: 6, Passenger: Type: Second Class, Name: maaa, SSN: 23242355424, Seat Number: 12, Baggage Allowances: 22, Meal Option: No, Train Number: 22, Destination: mal
