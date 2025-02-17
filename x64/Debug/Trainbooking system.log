@@ -1,0 +1,4 @@
+﻿  System.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\memory(3465,56): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ahidr\Downloads\Trainbooking\Trainbooking system\System.cpp(154,24): message : see reference to function template instantiation 'std::unique_ptr<Ticket,std::default_delete<Ticket>> std::make_unique<Ticket,unsigned __int64,std::unique_ptr<Passenger,std::default_delete<Passenger>>,Train&,0>(unsigned __int64 &&,std::unique_ptr<Passenger,std::default_delete<Passenger>> &&,Train &)' being compiled
+  Trainbooking system.vcxproj -> C:\Users\ahidr\Downloads\Trainbooking\Trainbooking system\x64\Debug\Trainbooking system.exe
