@@ -6,19 +6,22 @@ och andra klass), tågdetaljer och biljetthantering.
 
 
 ### Funktionalitet:
-### Biljetthantering:
+- Biljetthantering:
 ● Skapar biljetter för passagerare.
 ● Hämtar detaljer om en specifik biljett.
 ● Raderar biljetter.
+
 ### Passagerarhantering:
 ● Registrerar passagerarinformation (namn, personnummer,
 sittplatsnummer).
 ● Hanterar passagerartyp (första klass eller andra klass) och
 tillhörande förmåner.
+
 ### Tåghantering:
 ● Hanterar information om tåg såsom destination sort, kapacitet och
 tågnummer.
 ● Antal tillgängliga tåg.
+
 ### Systemfunktioner:
 ● Bokar biljet med ett tåg nummer och förmåner såsom 1 eller 2
 klass.
@@ -30,25 +33,30 @@ klass.
 ● Första klass: Frukostalternativ (valbar) och sätestyp.
 ● Andra klass: Bagageutrymme och måltid (men inte valbar kost).
 klasser och dess egenskaper:
+
 ### Class: Passenger
 - Egenskaper:
 ● name: Namnet på passageraren.
 ● ssn: Unikt personnummer för identifiering.
 ● seatNumber: Tilldelad sittplats i tåget.
+
 ### Class: Ticket
 - Egenskaper:
 ● ticketNr: Biljettens ID.
 ● passenger: Pekare till en passagerare.
 ● train: Referens till det bokade tåget.
+
 ### Class: Train
 - Egenskaper:
 ● trainNr: Unikt tågnummer.
 ● destination: Tågets destinationsort.
+
 ### Class: TrainCarage:
 - Egenskaper:
 ● Antal tågvagn och sittplatser.
 ● Capacitet till antal sitt platser i varje vagn.
 ● Visar tillgängliga platser för passagerare att boka.
+
 ### Class: System
 - Egenskaper:
 ● tickets: Lista över alla biljetter.
